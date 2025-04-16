@@ -1,7 +1,7 @@
 # Analyzing-Healthcare-data-in-Power-BI
 
 
-# README - Analyzing Healthcare Data in Power BI
+#  Analyzing Healthcare Data in Power BI
 
 ## 📊 Project Summary
 
