@@ -45,10 +45,7 @@ All field details are documented in the included PDF file.
 2. Open the `.pbix` file with Power BI Desktop.
 3. Use the slicers to explore different segments of the dataset interactively.
 
-## 📌 Prerequisites
 
-- Windows OS (Power BI Desktop is Windows-only)
-- No programming experience required
 
 ## 👤 Author
 
