@@ -6,7 +6,7 @@
 
 This case study explores the analysis of hospital discharge data from New York State using **Power BI**. The primary objective is to extract actionable insights from a comprehensive healthcare dataset that includes demographics, diagnosis, procedures, and financials.
 
-## 🗂 Files Included
+##  Files Included
 
 - `Analyzing_Healthcare_data_in_Power_BI.pbix`  
   The Power BI report file containing visual dashboards, filters, and data model.
@@ -17,7 +17,7 @@ This case study explores the analysis of hospital discharge data from New York S
 - `Assets.zip`  
   Supplementary assets (icons, images, data files) used in the Power BI visuals and report design.
 
-## 🏥 Dataset Overview
+##  Dataset Overview
 
 The dataset includes variables related to:
 
@@ -30,7 +30,7 @@ The dataset includes variables related to:
 
 All field details are documented in the included PDF file.
 
-## 🔍 Key Insights in the Report
+##  Key Insights in the Report
 
 - Patient discharge trends across demographics and time
 - Top diagnosis and procedure categories
@@ -41,7 +41,7 @@ All field details are documented in the included PDF file.
 
 
 
-## 👤 Author
+##  Author
 
 ###Created as a case study for healthcare data analysis using Power BI.  
 
