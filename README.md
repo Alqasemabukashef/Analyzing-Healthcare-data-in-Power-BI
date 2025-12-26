@@ -1,7 +1,6 @@
 # Analyzing-Healthcare-data-in-Power-BI
 
 
-#  Analyzing Healthcare Data in Power BI
 
 ## 📊 Project Summary
 
@@ -39,22 +38,12 @@ All field details are documented in the included PDF file.
 - Length of stay analysis across facilities and conditions
 - Risk and severity profiling for admitted patients
 
-## 🚀 Getting Started
-
-1. Download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
-2. Open the `.pbix` file with Power BI Desktop.
-3. Use the slicers to explore different segments of the dataset interactively.
 
 
 
 ## 👤 Author
 
-Created as a case study for healthcare data analysis using Power BI.  
-Feel free to fork or reference this project for educational purposes.
-
-
-### Contributing:
-Contributions are welcome! If you have suggestions, improvements, or issues to address, feel free to open a pull request or raise an issue.
+###Created as a case study for healthcare data analysis using Power BI.  
 
 ### Created By: Al-Qasem Abukashef  
 ### Contact: q.abukashef@gmail.com
